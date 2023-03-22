@@ -3,6 +3,8 @@
 Python implementation of the [Monty Hall Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem).
 It is a simple game with a strategy that is hard to understand why it works. So I had to implement it myself in Python to help to understand it.
 
+![image](monty_open_door.png)
+
 ```
 $ ./monty.py keep
 [...]
